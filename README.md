@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevanshuNagpal
-- 👀 I’m exploring Cybersecurity and Open Source
-- 🌱 I’m currently learning ReactJs
-- ❓ Feel free to discuss about Red Teaming, blue Teaming , Assembly , Reverse Engineering , Malware Analysis.
+- 👀 I’m exploring Cloud Computing and Cybersecurity and Open Source
+- 🌱 I’m currently learning about Cloud Technologies
+- ❓ Feel free to discuss about Cloud, Red Teaming, blue Teaming , Assembly , Reverse Engineering , Malware Analysis.
 - ⚡ Fun fact: I promise not to hack your Instagram! Just here for the code, commits, and the occasional debugging adventure. 
 
 <!---
